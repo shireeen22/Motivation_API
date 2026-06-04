@@ -1,6 +1,0 @@
-groq
-langchain-groq
-fastapi
-uvicorn
-python-dotenv
-pydantic
